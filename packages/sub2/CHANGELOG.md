@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/kaijin1234/lerna-test/compare/sub2@1.2.0...sub2@1.3.0) (2022-08-04)
+
+
+### Features
+
+* 4 ([681d7ad](https://github.com/kaijin1234/lerna-test/commit/681d7ad837cd460c0caec0b7977a7cfd2b98f87c)), closes [#123](https://github.com/kaijin1234/lerna-test/issues/123)
+
+
+
+
+
 # [1.2.0](https://github.com/kaijin1234/lerna-test/compare/sub2@1.1.0...sub2@1.2.0) (2022-08-04)
 
 
