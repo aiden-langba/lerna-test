@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [6.0.0](https://github.com/kaijin1234/lerna-test/compare/sub1@5.0.0...sub1@6.0.0) (2022-08-04)
+
+
+### chore
+
+* kadhsks ([e1a7975](https://github.com/kaijin1234/lerna-test/commit/e1a7975d0d47c4093087daef0df8799d7de92b03))
+
+
+### BREAKING CHANGES
+
+* jashdks
+
+
+
+
+
 # [5.0.0](https://github.com/kaijin1234/lerna-test/compare/sub1@4.0.1...sub1@5.0.0) (2022-08-04)
 
 
