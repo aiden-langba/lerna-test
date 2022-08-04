@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.3.0](https://github.com/kaijin1234/lerna-test/compare/sub1@3.2.1...sub1@3.3.0) (2022-08-04)
+
+
+### Features
+
+* kasjdl ([64fc52d](https://github.com/kaijin1234/lerna-test/commit/64fc52dd48d55f3f784e64d364b62549b948953a))
+
+
+
+
+
 ## [3.2.1](https://github.com/kaijin1234/lerna-test/compare/sub1@3.2.0...sub1@3.2.1) (2022-08-04)
 
 **Note:** Version bump only for package sub1
