@@ -1,7 +1,7 @@
 {
   "name": "sub1",
   "private": true,
-  "version": "4.0.1",
+  "version": "5.0.0",
   "scripts": {
     "dev": "vite",
     "preview": "vite preview",

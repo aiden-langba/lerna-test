@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.0.0](https://github.com/kaijin1234/lerna-test/compare/sub1@4.0.1...sub1@5.0.0) (2022-08-04)
+
+
+### chore
+
+* asjkdkasd ([35a7864](https://github.com/kaijin1234/lerna-test/commit/35a7864ae653daa324e3a27db75283cb3d7b7db8))
+
+
+### BREAKING CHANGES
+
+* KJASHKDSSS
+
+
+
+
+
 ## [4.0.1](https://github.com/kaijin1234/lerna-test/compare/sub1@4.0.0...sub1@4.0.1) (2022-08-04)
 
 **Note:** Version bump only for package sub1
