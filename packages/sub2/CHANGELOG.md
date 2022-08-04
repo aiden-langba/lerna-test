@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/kaijin1234/lerna-test/compare/sub2@1.3.1...sub2@1.4.0) (2022-08-04)
+
+
+### Features
+
+* a new feature ([cce04de](https://github.com/kaijin1234/lerna-test/commit/cce04de74013b1870291226f49a4b31d7307a431)), closes [#123](https://github.com/kaijin1234/lerna-test/issues/123)
+
+
+
+
+
 ## [1.3.1](https://github.com/kaijin1234/lerna-test/compare/sub2@1.3.0...sub2@1.3.1) (2022-08-04)
 
 **Note:** Version bump only for package sub2
