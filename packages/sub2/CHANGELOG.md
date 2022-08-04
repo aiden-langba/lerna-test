@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/kaijin1234/lerna-test/compare/sub2@1.4.0...sub2@1.5.0) (2022-08-04)
+
+
+### Features
+
+* ajshdkasd ([99b4681](https://github.com/kaijin1234/lerna-test/commit/99b468170d4827acb90ae1b6a08cb83c6b1b65ba))
+
+
+
+
+
 # [1.4.0](https://github.com/kaijin1234/lerna-test/compare/sub2@1.3.1...sub2@1.4.0) (2022-08-04)
 
 
