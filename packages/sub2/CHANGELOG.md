@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/kaijin1234/lerna-test/compare/sub2@1.7.2...sub2@2.0.0) (2022-08-04)
+
+
+### Features
+
+* aksjdksd ([fb65d3e](https://github.com/kaijin1234/lerna-test/commit/fb65d3e7a7e232d790823bec02ffbf0575b3f17e))
+
+
+### BREAKING CHANGES
+
+* aksjhdksa
+
+
+
+
+
 ## [1.7.2](https://github.com/kaijin1234/lerna-test/compare/sub2@1.7.1...sub2@1.7.2) (2022-08-04)
 
 **Note:** Version bump only for package sub2
