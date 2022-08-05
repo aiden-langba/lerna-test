@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [6.1.0](https://github.com/kaijin1234/lerna-test/compare/sub1@6.0.0...sub1@6.1.0) (2022-08-05)
+
+
+### Features
+
+* alieazer ([dec1a73](https://github.com/kaijin1234/lerna-test/commit/dec1a73f58c1e27e667d8405d8a6010d67ef19b1))
+
+
+
+
+
+
 # [6.0.0](https://github.com/kaijin1234/lerna-test/compare/sub1@5.0.0...sub1@6.0.0) (2022-08-04)
 
 
